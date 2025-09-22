@@ -1,0 +1,3 @@
+[build]
+  command = "pnpm exec turbo build --filter=f-156314-astro"
+  publish = "./apps/astro/dist/"
